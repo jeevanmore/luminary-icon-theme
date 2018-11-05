@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.5;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAsklEQVQ4je3SoWqCYRTG8R9OhaGYFBRWLN6BWRBFBItXYLN6AV7Iks1stJgtJpOm1ZUN0WTYGAvfZxTh5S3C94+Hc/48PBwyMp6fl8C7CvL4iZhFC9/4ROfeUu6BpIEVtpiksyaOmKIdmm6Jd4zwgVkq/goV1lDFCW/p7FZBX9JtKUS8wAV/OGCOIoapfB2aGF7xix42klqisccYZVwlbxaFAc7YSSopxBJDHV0R02bE4R/JhRwjKwvYKgAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.058824%,72.156864%,29.803923%);fill-opacity:1;" d="M 3.292969 0.234375 L 18.949219 0.234375 C 19.875 0.234375 20.625 0.984375 20.625 1.910156 L 20.625 20.144531 C 20.625 21.070312 19.875 21.820312 18.949219 21.820312 L 3.292969 21.820312 C 2.367188 21.820312 1.617188 21.070312 1.617188 20.144531 L 1.617188 1.910156 C 1.617188 0.984375 2.367188 0.234375 3.292969 0.234375 Z M 3.292969 0.234375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.901961%,94.901961%,94.901961%);fill-opacity:1;" d="M 4.894531 2.445312 C 4.15625 2.445312 3.5625 3.039062 3.5625 3.777344 L 3.5625 18.277344 C 3.5625 19.015625 4.15625 19.609375 4.894531 19.609375 L 17.347656 19.609375 C 18.085938 19.609375 18.679688 19.015625 18.679688 18.277344 L 18.679688 10.582031 L 10.542969 2.445312 Z M 13.671875 2.445312 L 18.679688 7.453125 L 18.679688 3.777344 C 18.679688 3.039062 18.085938 2.445312 17.347656 2.445312 Z M 13.671875 2.445312 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+</g>
+</svg>

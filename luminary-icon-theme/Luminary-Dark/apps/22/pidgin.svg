@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.27;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAABP0lEQVQ4je3SvytGcRTH8dcjLH5TCsVTfpUki8XC5MckoRRlkH9DEWW3WUwmGSRKUQarwmQh2cSgSAZ5DJdcT/e599qdOsO95/N9f8/5fA//8R/5kUmhmcUkymI0D1jDZdqLh5FLmfeoSAK2YAoHfwDnMBIHrcP+H4HfOfENKY4ANyKLJVyhFjPoTxoTRYUK7dhDTd7/DJZTdDxdCLyFZgyhPAK+kwAej2q9Eh+YwyFOURKqz6MPN4W6wmsUuBHXaMU6mtAQqrdhU/zuP0aBnwXjrGMU27hDFaqxKtjT0gjgm8DGs6jbarAY+q5DL16+sh0b6Pqq1+MC3TETIFirMHgQt34e5hzHeWei1hW/rcgKmY8TdGJBYMMAnvLOvyd1CyvoSNDsCCxIHSXYTaHrwhHG0oIz6EmpLRW8xVCc6BOQ82F5zdwBUwAAAABJRU5ErkJggg=="/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.96;stroke:none;"/>
+  </g>
+</mask>
+<image id="image8" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAABhElEQVQ4je2Tv2sUURRGz90sAVniEhZF0kQQIuRv0aCN2lmaIrYpXEinncQtTWdIK2oR0cJ+kZDKImkDSdQIugaNKZJjMTMw+2N2Z0vBD4a5b+73zvuY9x781z+rGGVQK8AsMF3gPwcOIuJL6VXVurptOa2OA26WhGaaz+ZWCoA31C3gYekUia5nRXUAtAGsAzXgM/ATuFgSPJEVXYnVAFaAFnAlIrJNuwUcjgPuTftAXSzozamdEf/4Tl/iNO1N4KP6Qb3Xwz4GXgI/hiT+3QcmOas7wBIwBTxXL+f6TWAO+D4uuJqm2gPOgJP0yfQ+7Z8WQP8An/KwTJ30/QTYB9oA6iOSG/cUmAQWgDckp2YJ2AS2gLcR8bVvOXVaXcmNF9S13Ma01LY6lfZr6v2C9F2Jaz29d8A14AioA7skR/AYICJ+AS+KwPnEt9W7A75PqJfS+vVI0ADAhnphhOexuqwOvgg5VdIJDaATESfDzBHRBL4Br9SrZRPPljIm3hn12bDkfwEPQzWIGijYtAAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(53.725493%,17.254902%,62.7451%);fill-opacity:1;" d="M 3.292969 0.175781 L 18.949219 0.175781 C 19.875 0.175781 20.625 0.929688 20.625 1.855469 L 20.625 20.085938 C 20.625 21.011719 19.875 21.761719 18.949219 21.761719 L 3.292969 21.761719 C 2.367188 21.761719 1.617188 21.011719 1.617188 20.085938 L 1.617188 1.855469 C 1.617188 0.929688 2.367188 0.175781 3.292969 0.175781 Z M 3.292969 0.175781 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<use xlink:href="#image8" mask="url(#mask1)"/>
+</g>
+</svg>

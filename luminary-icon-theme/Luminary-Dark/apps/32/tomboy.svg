@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.5;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAAlElEQVRYhe3SMQ4BQBRF0SPRa0QkEoXECixHbwW2oFWp1KKzCg2dPVgBUYslzP+JIPFvfefNy7yhKP6dTtBbYpDMvmD/rgInTJMFDlgkz3ye6AusMExmn7FtSd1g2AyTZIFb0v8O0Qk2GCWzj1i3pOgEffk/0Ev63yE6wQ7jhjPHNVsgOsED94bzzF5eFEVRFMVP8AJa7A53yljWAQAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.607843%,80.392158%,21.960784%);fill-opacity:1;" d="M 4.296875 31.339844 L 20.710938 31.339844 L 29.410156 22.675781 L 29.410156 2.363281 C 29.410156 1.292969 28.546875 0.429688 27.480469 0.429688 L 4.296875 0.429688 C 3.230469 0.429688 2.363281 1.292969 2.363281 2.363281 L 2.363281 29.410156 C 2.363281 30.476562 3.230469 31.339844 4.296875 31.339844 Z M 4.296875 31.339844 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,90.196079%,60.784316%);fill-opacity:1;" d="M 29.382812 22.648438 L 22.648438 22.648438 C 21.582031 22.648438 20.71875 23.511719 20.71875 24.578125 L 20.71875 31.320312 Z M 29.382812 22.648438 "/>
+<path style="fill:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 6.445312 47.009766 L 31.066406 47.009766 L 44.115234 34.013672 L 44.115234 3.544922 C 44.115234 1.939453 42.820312 0.644531 41.220703 0.644531 L 6.445312 0.644531 C 4.845703 0.644531 3.544922 1.939453 3.544922 3.544922 L 3.544922 44.115234 C 3.544922 45.714844 4.845703 47.009766 6.445312 47.009766 Z M 6.445312 47.009766 " transform="matrix(0.666667,0,0,0.666667,0,0)"/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+</g>
+</svg>

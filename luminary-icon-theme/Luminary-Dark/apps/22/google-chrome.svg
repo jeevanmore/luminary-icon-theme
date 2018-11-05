@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image11" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAXklEQVQ4je3VoRGAMAxA0QdbMAoGzyxIJsCg2BGBo4IRQAB3+FYg8u9iKl7iWrmrMKGV14YRx/vQ4yw0M9QP3GRe+q35wsULOOCAAw74X3AqaCbuT/RdsKDLRFcM2C/G3hrutmGsSgAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image11"/>
+  </g>
+</mask>
+<image id="image10" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAACx0lEQVQ4je2TS0hUYRTHf+e7M3ccHZtekxllloZFL6PnpqkoetBMmzCDCoOgF9EmiAgKizYVUdELQioiIkjaWKsgxEgIyh4LKWnsaWBO+Ri9Otrcr0Vaofdmte6/O+f/nd89537ng//qlQx2IBYJTxIlhVoTEq0FoUlQz3MrKl8K6L8Cx4qWBUkmd6LZApLnUvtew9UU6lRBRWV8UHAsunAtyDkga7BpetUm6D0TK+6XuYJj0YWHQA64TfI7CVycMLtqh5RiA6if0PA+kIP/AgXQsDX2KHy6L1YAl7evXAwc+RfgrxJhV300vA5AKC1V40fX1Z6r/lQwpbnbsUCl+TFz8xBTgVUPdrtz0x75YvioHbXIt0qGXdm4Wmt9u/BzN2VVjcgvCySmj+El22ifH+Fpg5CyYWaOYWcnqhvNtmMhdIfHpffdHrTeBPB0hMm9MeksbbC+Wx4v2UdOdV58O9F/40IXtv1jXBWZNSd77/LLjd66kizsTgeu3qA0LOmLT08LkjS+392w4k31N+N5/uvVyR9QAK2hoqab81WBLEZvdG5YM1cBo/rihgwP1yZlApARLbavPUg6FwLlD5O0p69ws5Xqn7lUMMRuSjNo6jbHtVquL5aeFLxpDYIRcCb3T3QZok7MGGpleLUlg2x0wIeN3eUCFr72T94dm+63Eg2vC3NcLh3IDSnGB1vq0APKe8Fa1zrkpaTmUmBPJK0nM21g2z6vsH9Nut354azjQgPNhi86bawoCfd3PnZ8GdFmx5uPr5zvS3SiWjo0Po+wIN/L4bX+1KvErWdTE+WznX5XKkW5BM8UTZCA+QIwnT6dEwixZfIy5oXydabpb33XHn9/9Em5/8zIx/nT/T2O7SYsOywAwbL158UwdriMNUCbh1ucHNfi6KVsfcczpzKiAAzL2Iem/k+gQcNmf3abo6c18ZbW5DaAb7Wl8UZicr4dAAAAAElFTkSuQmCC"/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(80.000001%,80.000001%,80.000001%);fill-opacity:1;" d="M 3.292969 0.234375 L 18.949219 0.234375 C 19.875 0.234375 20.625 0.984375 20.625 1.910156 L 20.625 20.144531 C 20.625 21.070312 19.875 21.820312 18.949219 21.820312 L 3.292969 21.820312 C 2.367188 21.820312 1.617188 21.070312 1.617188 20.144531 L 1.617188 1.910156 C 1.617188 0.984375 2.367188 0.234375 3.292969 0.234375 Z M 3.292969 0.234375 "/>
+<use xlink:href="#image10" mask="url(#mask0)"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.5;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAf0lEQVRIie3PIQ6CMRAF4Y/kJ0Eg0BgI94A7cgkEJ0EjEAjugEBgWk7QZdOEYDp2um9SBv9mFrg5domNintPYItrIlCwSrz7Dd9+cEtsFCx7AhM2iUDFoyewxjkRKDi05BQcPnFMBGoko8AC+4a74JSIh4GCV8O9M+ODwWCQ5APIixEyUxBbfgAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.607843%,80.392158%,21.960784%);fill-opacity:1;" d="M 3.222656 23.503906 L 15.53125 23.503906 L 22.058594 17.003906 L 22.058594 1.769531 C 22.058594 0.972656 21.410156 0.324219 20.609375 0.324219 L 3.222656 0.324219 C 2.421875 0.324219 1.773438 0.972656 1.773438 1.769531 L 1.773438 22.058594 C 1.773438 22.855469 2.421875 23.503906 3.222656 23.503906 Z M 3.222656 23.503906 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,90.196079%,60.784316%);fill-opacity:1;" d="M 22.039062 16.984375 L 16.988281 16.984375 C 16.1875 16.984375 15.539062 17.632812 15.539062 18.433594 L 15.539062 23.492188 Z M 22.039062 16.984375 "/>
+<path style="fill:none;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 6.445312 47.007812 L 31.0625 47.007812 L 44.117188 34.007812 L 44.117188 3.539062 C 44.117188 1.945312 42.820312 0.648438 41.21875 0.648438 L 6.445312 0.648438 C 4.84375 0.648438 3.546875 1.945312 3.546875 3.539062 L 3.546875 44.117188 C 3.546875 45.710938 4.84375 47.007812 6.445312 47.007812 Z M 6.445312 47.007812 " transform="matrix(0.5,0,0,0.5,0,0)"/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+</g>
+</svg>

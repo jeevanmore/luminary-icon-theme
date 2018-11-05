@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA80lEQVRIie3SLUtEQRTG8d+uqFsMYhQExcUXBDEYBGGTwWRZsGiwmjfa9Av4IYw2QRA02kW2aDWtlg0qiKLhzuLdy8h6TYb5w5Thmec858whkUgM/UIzhm1sYgL3+IzoavgoG6CBTjDsnVNUC7p5TJc1n8MBxrGGu1yR/ZyuidWy5lW0CnezeA4FOpjEIRbLmsMu6pH7lu8urmT/8yfasrkWaeAtFHjRP5pRzBQfVCImS7jFDY4wgmXZFp3jEmcYxitO8I4FbKE7KP26/q15xDGmcpqdYNrTdH/oONpBBXsheRvX4vu9gg084AJPg5InEv+ULwVuMkWCbX7wAAAAAElFTkSuQmCC"/>
+<image id="image8" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABbUlEQVRIie2QsSuEcRjHP8/vXmVwCRMTsol7k4nkPRQlg0xmsRoMNh2TDBajwWARZTBYnDthVMflSlIG6spAKYn3/B7Le+G6u3/A+9l+z/P9fZ/n+0BISIhUa6bVc5owCwqzQBtwqZh5V5LnpdqsjrR3kbwXQX/XTSVzVaQRs6FIC8hdoO0R7GFOvY6iLqde3ZUOTUdoeCw1rzogy9AMOGsxOZ6PyfGYoktBK1rArANk1HN9InPP2L1O2fss51P2RBn1WgXpcSW9/5MoYa44PRPoCz6uWrh1JbVVacmKCQSzVEBP/9QkYS0yC/gACvEX7HY187IJLnSkvgabV1h0JbUBcKP90Q9qx0GngAZgOJDvfBFZiOAbxUyCOXclmak6IKvxQUVOgue1Qq1AM7DtYJffib46vB0VT/WL5ZikEqV+TmnBIneCPoDUAE+CHPh87vbKWb6oyenoRAF/E4gDzyC73QysQKriqUJC/jPfOeR4UuL9k+gAAAAASUVORK5CYII="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(36.470589%,36.470589%,36.470589%);fill-opacity:1;" d="M 3.589844 0.257812 L 20.671875 0.257812 C 21.679688 0.257812 22.5 1.074219 22.5 2.085938 L 22.5 21.976562 C 22.5 22.984375 21.679688 23.804688 20.671875 23.804688 L 3.589844 23.804688 C 2.582031 23.804688 1.761719 22.984375 1.761719 21.976562 L 1.761719 2.085938 C 1.761719 1.074219 2.582031 0.257812 3.589844 0.257812 Z M 3.589844 0.257812 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<use xlink:href="#image8"/>
+</g>
+</svg>

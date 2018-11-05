@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.525;stroke:none;"/>
+  </g>
+</mask>
+<image id="image11" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAbUlEQVRIie3PsQ2CYBAG0Ach1AxgSUGMrY2LMIBrMQgj0DCFjbGyMcbERApowb8m99rLfd8dIYQQwh5kf+ZXHNHhgjsqvJHjhB7DWkCecESJFl80qJeS1zL/bC0XCQUjbjjggaf58zN+iRlh3QT1fQ2K1Zi5WAAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(90.196079%,90.196079%,90.196079%);fill-opacity:1;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 7.015625 0.59375 L 40.507812 0.59375 C 42.492188 0.59375 44.09375 2.203125 44.09375 4.1875 L 44.09375 43.1875 C 44.09375 45.171875 42.492188 46.773438 40.507812 46.773438 L 7.015625 46.773438 C 5.039062 46.773438 3.429688 45.171875 3.429688 43.1875 L 3.429688 4.1875 C 3.429688 2.203125 5.039062 0.59375 7.015625 0.59375 Z M 7.015625 0.59375 " transform="matrix(0.5,0,0,0.5,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(29.019609%,33.725491%,43.137255%);fill-opacity:1;stroke-width:0.101903;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 10.882812 4.992188 L 36.757812 4.992188 C 38.289062 4.992188 39.53125 5.953125 39.53125 7.140625 L 39.53125 30.4375 C 39.53125 31.617188 38.289062 32.578125 36.757812 32.578125 L 10.882812 32.578125 C 9.351562 32.578125 8.109375 31.617188 8.109375 30.4375 L 8.109375 7.140625 C 8.109375 5.953125 9.351562 4.992188 10.882812 4.992188 Z M 10.882812 4.992188 " transform="matrix(0.5,0,0,0.5,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(0%,70.980394%,58.039218%);fill-opacity:1;stroke-width:0.101903;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 13.53125 16.695312 L 8.109375 21.984375 L 8.109375 30.4375 C 8.109375 31.625 9.34375 32.578125 10.882812 32.578125 L 29.789062 32.578125 Z M 13.53125 16.695312 " transform="matrix(0.5,0,0,0.5,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(100%,80.000001%,1.176471%);fill-opacity:1;stroke-width:0.115431;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 24.671875 11.117188 C 24.671875 12.867188 23.21875 14.289062 21.429688 14.289062 C 19.640625 14.289062 18.195312 12.867188 18.195312 11.117188 C 18.195312 9.367188 19.640625 7.945312 21.429688 7.945312 C 23.21875 7.945312 24.671875 9.367188 24.671875 11.117188 Z M 24.671875 11.117188 " transform="matrix(0.5,0,0,0.5,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(0%,70.980394%,58.039218%);fill-opacity:1;stroke-width:0.101903;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 33.484375 10.53125 L 13.210938 30.390625 L 10.953125 32.578125 L 36.757812 32.578125 C 38.296875 32.578125 39.53125 31.625 39.53125 30.4375 L 39.53125 16.460938 Z M 33.484375 10.53125 " transform="matrix(0.5,0,0,0.5,0,0)"/>
+<use xlink:href="#image11" mask="url(#mask0)"/>
+<path style="fill:none;stroke-width:0.102;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 10.882812 4.992188 L 36.757812 4.992188 C 38.289062 4.992188 39.53125 5.953125 39.53125 7.140625 L 39.53125 30.4375 C 39.53125 31.617188 38.289062 32.578125 36.757812 32.578125 L 10.882812 32.578125 C 9.351562 32.578125 8.109375 31.617188 8.109375 30.4375 L 8.109375 7.140625 C 8.109375 5.953125 9.351562 4.992188 10.882812 4.992188 Z M 10.882812 4.992188 " transform="matrix(0.5,0,0,0.5,0,0)"/>
+</g>
+</svg>

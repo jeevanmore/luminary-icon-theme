@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image11" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAcElEQVRIie3VvQmDYBAG4EcJ6BA2abKQlaVIVsko2SNkj0BcQ/xpBCXtp6nuhYOr3ue6y2yp0aKQlglvPNYdVBgwHzgN5CtwxSXx8t/c9sAZyc4GBBBAAAEEEMDfgR7jwd0ftkf/RYc7ysTiES88YQFDax+rA6tGOQAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image11"/>
+  </g>
+</mask>
+<image id="image10" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAC7klEQVRIie1VW0hUURRd+9wzD2e8M47j6GiKjVImFVJgRSH5IRpBVAZiRg+iAvvzuwd9JPhRPxH0EdELCexhhtVXUGFUkAVlpGKWYphOmj3G5nHv3X2Ug+W9SdFXtL7u3WuftfY+d59zgf/450G/IufuaE2zx7GOGOUkaCEzBRhsCMIYG/ychLirwdba17z2428ZLK5r9yWgHWBgDwD3LEV+AXBST8QP912sCc9qsKDuapUBnCUgaxbhn6XCRPrO7ubq9ulRMf2laEvbTgau/744AHCAWbQV1bXW/2A79TB/c+sGIrr8s+kfgMFc23NhYwumxCr3d4cUIU7/BXEAIBCdKtp6LQQAEgBUj78xzR9MG383bLnKaVeQl+mGTQp8jjF0w3oABZGW6rLv6wF2UfWR9/mCuF/T4tTb9Yh0Xfsh2eO2oaGmGBWleXg9BjADhQEy+oc/T4xEUj0GSFo3I0qkIrCdGUJKOwLZ+Xg79DJJp3scaD5Ypt3oUmT1sQgS371tCkTNCkf67nLx9k4PB2MJq70ydggwV04FMjKz4XCmJBOONyx70/JIyPMdsaQ4ACR0oPleDEdvRoNL8km37gBrBANLk44kEMwtBACEctSwN80752pn3HJ1+5M4JiKGkuo05xmYLwCkTA96vOlQvT5Uleb0PuzTwGxdHjNwv0+DP9XygyumY5mdN09T3TZMWhefRCTGFirfIADMqNHhcMqBMZlVkDn7sSjMVBCJzdSYbjBoRvSOe7JWzrON5PisTYJegdXFMhz+ZK5PhHFhGPp9M1I3oJ65HRltqnWx2R773ISmWhc/fsVDhmF+KxsGP5CsaVdgV2rNEm49iy9mpui5elW2dcbl08Fvs7ooT2LTMvtkx4vYU53ty4VFkwkteonKD7H0q+M9BCowTwO8LoGyYjtCAQVSwZfRD8abm0+ivpKQy5+bYX6QmXlkZHi0gABgfePANptTPWtlYIZsn0RFifW/KBad3FuzSj3xFeLnBYPXhupTAAAAAElFTkSuQmCC"/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(80.000001%,80.000001%,80.000001%);fill-opacity:1;" d="M 3.589844 0.257812 L 20.671875 0.257812 C 21.679688 0.257812 22.5 1.074219 22.5 2.085938 L 22.5 21.976562 C 22.5 22.984375 21.679688 23.804688 20.671875 23.804688 L 3.589844 23.804688 C 2.582031 23.804688 1.761719 22.984375 1.761719 21.976562 L 1.761719 2.085938 C 1.761719 1.074219 2.582031 0.257812 3.589844 0.257812 Z M 3.589844 0.257812 "/>
+<use xlink:href="#image10" mask="url(#mask0)"/>
+</g>
+</svg>

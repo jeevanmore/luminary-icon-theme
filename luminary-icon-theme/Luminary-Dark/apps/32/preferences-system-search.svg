@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABBElEQVRYhe3UwSpEURzH8Y9JvIAFad5CkgewYGNliaxEsvIahuJBDFlYs+cVZCeZhVCDazF/zW10a0aOKZ1vnU79f+ee/7fu/V8ymUxmyIz84Jk6FjCBe1zg7jelqhjHEdooSquNQ4ylbF7DaalhE/tRe4t6M84lYS2aPGCmJ5vDY+TrqQQuo8FGRb4Z+VUqgadoMFmR1yN/HvTift9ZEXvV1HzVX1MJ3MS+WJEvxX49qEC/rOp+hLM92TxakS+nEqjhRHcMz9DAue4YFthNJUDnR3Pg+4/oJeQ+Yu2klIBpnXnfwwqmor79lxJVlCW2hi3R6ufwaAKBY9ziPcHdmUzmH/IJWk1DmpUCbR0AAAAASUVORK5CYII="/>
+<image id="image8" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAA7UlEQVRYhe3TvUoDQRiF4WgbBBsVG3UrLf1B9AaCl5dOjVcRRb0AW638w0rQ2FiaQjDNY/MJW2RDtpgNwrzNB3OGOe/ATKuVyWQy/wkU6GGAEd5xgvUmyo8wNJ4vdFKWF6XyPvbQxj4uY32IIpVA76+8Ir+K/CyVwCAKdivyw8g/Ugn8REG7Il+MfFT37Pkp933G3KzIt2K+1hWYCpzGDc/HZHO4jrybSmCj9Asu4vUv4KBUDttJBEKiE/99Ek9YSSmxhmO84RvP6GIHD41ITJBbwn1IvGB1FhLLeAyJu8YFShK3uJmJQCaTydTlF0TrZEBvbIZVAAAAAElFTkSuQmCC"/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,80.000001%,100%);fill-opacity:1;" d="M 4.8125 0.394531 L 27.476562 0.394531 C 28.816406 0.394531 29.902344 1.480469 29.902344 2.820312 L 29.902344 29.210938 C 29.902344 30.550781 28.816406 31.636719 27.476562 31.636719 L 4.8125 31.636719 C 3.472656 31.636719 2.386719 30.550781 2.386719 29.210938 L 2.386719 2.820312 C 2.386719 1.480469 3.472656 0.394531 4.8125 0.394531 Z M 4.8125 0.394531 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<use xlink:href="#image8"/>
+</g>
+</svg>

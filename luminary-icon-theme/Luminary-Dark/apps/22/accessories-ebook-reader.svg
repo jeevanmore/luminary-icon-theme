@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAU0lEQVQ4jWNkIA+oMTAwTGRgYGCB8k8xMDBUk2kWCvBjYGD4j4SvoCtgooYt2MCowSPY4O/UNvgxAwNDAgMDgwgDA4MOAwPDHDLNGQWjYBSMcAAAwgMJR9rJ5AAAAAAASUVORK5CYII="/>
+<image id="image8" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAZElEQVQ4jWNkIANcv37dkoGBoQnGZ2RkfKihoZGCrIaFHIMZGRlFGRgYXJD4V9HVMJFjMDFg1OAhbDBZyY2BgYHh////1xgZGRcyMjJq/f//X4sqrrl9+zY7Pv4oGAWjYBQQCwA9OBNF7iFuqwAAAABJRU5ErkJggg=="/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.847;stroke:none;"/>
+  </g>
+</mask>
+<image id="image11" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAcElEQVQ4je3VIRJAQBSH8W93JFFzFEF3is0cQpAVSRdcQXAlQ5b2CTsjacuM8L74wu8fnyFkqF0HFABY0zNOKxElADSuQmjvq/dzDApgARDyWOgZ/iCFFVZYYYX/BItsb8Ph5x3nQpYOGCnDEHssfAHhghPOtyDqSQAAAABJRU5ErkJggg=="/>
+<mask id="mask2">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.177;stroke:none;"/>
+  </g>
+</mask>
+<image id="image14" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAQUlEQVQ4je3MIQGAMABE0QcIFCFYA1Ks0SrQlQBYMGvABOKeuxOfiIiIX1pHt+Y+DpQB0Q0Vpn4sOLHj+RC+0XC97qsEuVAto5kAAAAASUVORK5CYII="/>
+<mask id="mask3">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.177;stroke:none;"/>
+  </g>
+</mask>
+<image id="image17" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAASUlEQVQ4je3MsRFAUBQF0X0ioSaMFpShGw1oV6KBlTAj9snuCTfYAlA7YANGQN47gLWqdq7xrE4Nw/szqMsz9K3TP14REREfOgEqRxm/zW7cEAAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,58.431375%,52.941179%);fill-opacity:1;" d="M 3.292969 0.234375 L 18.949219 0.234375 C 19.875 0.234375 20.625 0.984375 20.625 1.910156 L 20.625 20.144531 C 20.625 21.070312 19.875 21.820312 18.949219 21.820312 L 3.292969 21.820312 C 2.367188 21.820312 1.617188 21.070312 1.617188 20.144531 L 1.617188 1.910156 C 1.617188 0.984375 2.367188 0.234375 3.292969 0.234375 Z M 3.292969 0.234375 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<use xlink:href="#image8"/>
+<use xlink:href="#image11" mask="url(#mask1)"/>
+<use xlink:href="#image14" mask="url(#mask2)"/>
+<use xlink:href="#image17" mask="url(#mask3)"/>
+</g>
+</svg>

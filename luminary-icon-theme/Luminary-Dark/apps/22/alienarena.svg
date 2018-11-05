@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAv0lEQVQ4je3TMW7CQBBG4TdIuMFGdD4ASh2apIMS+qTlAHCv3ApxADoUKY2l6KUBaSUsso5J57/anZn9dpuFf0rkDKkFUF+2p4ho/gyrJbAFKqABTpdWDRTAJ/AREV85j7uiG3WnVndmpupeXeei7+pzh0cs1LffhlbqPBdNzj2py7Q2Spol0ETEsSscEQfgW5203frSFWwxXq/rUVI/94VvDLVQp31VdaaO00LZF02sKt1k/cBM+GHWkCFDuuYHa7hkVCG9/AsAAAAASUVORK5CYII="/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image8" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAn0lEQVQ4je3SMQrCUAyA4c9WFOymIDrpKQQ9hpOjnkCP5UkUvYlXECourTxKixWLg/SfwkvyJ4RHS0vLH9Jr0NWHKBDHDUi7ZZ5ZA+J5HkTBY9KA+OUIxXdMvpBOkVYl14VhdYmy3koSbD+UR9hh8K5whIN6Z5lij2Ex0alo6GKDMU644hFsuMAKNxyV3LZKnBNjmYny/5nignMw7Hc8AUhwD1pD/3xIAAAAAElFTkSuQmCC"/>
+<mask id="mask2">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image11" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAUUlEQVQ4je3QoQ2AQBBFwUlA4ukFTwVINMVQJw5BASSXQ4BGrYIdu8n7yZJS+pDm5TZixoE9cnRFxYkpMjygPPEtMgyL+xUVXXS8RR8dTX90AWWBCuMoA+BWAAAAAElFTkSuQmCC"/>
+<mask id="mask3">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image14" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAUElEQVQ4je3OsQ1AABRF0SOodbbQW8QGCpMYU6m0gAgNC8iv+Kd/N4+U0oeUL3cdJtRYos4M2HFijooWWO/ogT4q3NzRDWNU9NGiio6mP7gA4a0J5r/tBMsAAAAASUVORK5CYII="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(27.058825%,70.588237%,28.627452%);fill-opacity:1;" d="M 20.167969 11 C 20.167969 5.9375 16.0625 1.832031 11 1.832031 C 5.9375 1.832031 1.832031 5.9375 1.832031 11 C 1.832031 16.0625 5.9375 20.167969 11 20.167969 C 16.0625 20.167969 20.167969 16.0625 20.167969 11 Z M 20.167969 11 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<use xlink:href="#image8" mask="url(#mask1)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(22.352941%,22.352941%,22.352941%);fill-opacity:1;" d="M 14.207031 15.125 C 14.207031 16.898438 12.773438 18.332031 11 18.332031 C 9.226562 18.332031 7.792969 16.898438 7.792969 15.125 C 7.792969 13.351562 9.226562 11.917969 11 11.917969 C 12.773438 11.917969 14.207031 13.351562 14.207031 15.125 Z M 14.207031 15.125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(22.352941%,22.352941%,22.352941%);fill-opacity:1;" d="M 16.957031 10.542969 C 16.957031 13.832031 14.289062 16.5 11 16.5 C 7.710938 16.5 5.042969 13.832031 5.042969 10.542969 C 5.042969 7.25 7.710938 4.582031 11 4.582031 C 14.289062 4.582031 16.957031 7.25 16.957031 10.542969 Z M 16.957031 10.542969 "/>
+<use xlink:href="#image11" mask="url(#mask2)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,34.117648%,30.19608%);fill-opacity:1;" d="M 6.480469 11.066406 C 7.433594 10.863281 8.46875 11.132812 9.210938 11.875 C 9.949219 12.613281 10.21875 13.648438 10.019531 14.601562 C 9.066406 14.804688 8.03125 14.535156 7.289062 13.792969 C 6.550781 13.050781 6.28125 12.019531 6.480469 11.066406 Z M 6.480469 11.066406 "/>
+<use xlink:href="#image14" mask="url(#mask3)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,34.117648%,30.19608%);fill-opacity:1;" d="M 15.519531 11.066406 C 14.566406 10.863281 13.53125 11.132812 12.789062 11.875 C 12.050781 12.613281 11.78125 13.648438 11.980469 14.601562 C 12.933594 14.804688 13.96875 14.535156 14.710938 13.792969 C 15.449219 13.050781 15.71875 12.019531 15.519531 11.066406 Z M 15.519531 11.066406 "/>
+</g>
+</svg>
