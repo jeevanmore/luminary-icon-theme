@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="22"
+   width="22"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="network-wired-acquiring.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-5.6398302"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs12">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  </defs>
+  <g
+     transform="translate(-105.33051,-550.8939)"
+     id="g4" />
+  <path
+     style="color:#d3dae3;fill:#4d4d4d;stroke-width:0.7916252"
+     d="m 8.7602202,5.457107 -3.56231,-4.35393 -3.56232,4.35393 c 0.003,-0.003 1.05548,0 1.58326,0 v 9.38546 h 3.95812 v -9.38546 z"
+     id="path8-3"
+     class="ColorScheme-ButtonBackground"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     sodipodi:nodetypes="cccccccc"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonBackground"
+     id="path815"
+     d="m 15.09323,14.842557 -3.56232,4.35393 -3.5623098,-4.35393 c 0.003,0.003 1.05547,0 1.58325,0 V 5.457097 H 13.50997 v 9.38546 z"
+     style="color:#d3dae3;fill:#4d4d4d;fill-opacity:1;stroke-width:0.7916252;opacity:0.3" />
+</svg>

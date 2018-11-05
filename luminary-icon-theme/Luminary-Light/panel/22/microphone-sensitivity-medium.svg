@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="22"
+   width="22"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="audio-input-microphone-low-zero-panel.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="901"
+     inkscape:window-height="480"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs10">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  </defs>
+  <g
+     transform="translate(-177 -647.36)"
+     id="g4"
+     style="fill:#4d4d4d">
+    <path
+       style="fill:#4d4d4d"
+       d="m188 650.36c-1.6621 0-3 1.3379-3 3v5c0 1.6621 1.3379 3 3 3s3-1.3379 3-3v-5c0-1.6621-1.3379-3-3-3zm0 2c0.554 0 1 0.446 1 1v5c0 0.554-0.446 1-1 1s-1-0.446-1-1v-5c0-0.554 0.446-1 1-1zm-6 5v1c0 2.9695 2.1624 5.4322 5 5.9062v2.0938h2v-2.0938c2.8376-0.47409 5-2.9368 5-5.9062v-1h-2v1c0 2.2334-1.7666 4-4 4s-4-1.7666-4-4v-1z"
+       id="path6"
+       class="ColorScheme-ButtonBackground" />
+  </g>
+</svg>

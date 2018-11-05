@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAABBklEQVQ4je3UzypEcRjG8Y9SlKJYUZOVGinsZk9KXIBkP+EC5A6ULVZzA26AaOykmJWFhVKyEQuWYmNYnHcxaTp+Z7JR89S7eN73e57fn3M6dPVv1ZPALGMF5fC3OMRxp4uOoI4vNLAX1YjeKYaLhvbjCk+YazOfxzMu0VckeBvvmM5hZvCBrSLBD7Jj/6YD3Lcb9LbpjWEcR+EnMPuDucZdMJsYlV1briZlL6cSvha+tWoxq4QvS9AQPrGawK4FO5gSDBc4SeDqOE8NhSXZEddzmI1gFosEwy6a2EeppV+SfQ1N7BQNbd3Va4Q8RjXxgmregyn/igEsYCr8Dc7w1uFmu/ojfQNrlzdtM35G2AAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(25.490198%,64.705884%,78.039217%);fill-opacity:1;" d="M 3.179688 0.117188 L 18.953125 0.117188 C 19.886719 0.117188 20.640625 0.875 20.640625 1.808594 L 20.640625 20.175781 C 20.640625 21.109375 19.886719 21.867188 18.953125 21.867188 L 3.179688 21.867188 C 2.246094 21.867188 1.492188 21.109375 1.492188 20.175781 L 1.492188 1.808594 C 1.492188 0.875 2.246094 0.117188 3.179688 0.117188 Z M 3.179688 0.117188 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 17.1875 11 C 17.1875 7.582031 14.417969 4.8125 11 4.8125 C 7.582031 4.8125 4.8125 7.582031 4.8125 11 C 4.8125 14.417969 7.582031 17.1875 11 17.1875 C 14.417969 17.1875 17.1875 14.417969 17.1875 11 Z M 15.8125 11 C 15.8125 13.65625 13.65625 15.8125 11 15.8125 C 8.34375 15.8125 6.1875 13.65625 6.1875 11 C 6.1875 8.34375 8.34375 6.1875 11 6.1875 C 13.65625 6.1875 15.8125 8.34375 15.8125 11 Z M 13.75 11 C 13.75 10.617188 13.445312 10.3125 13.0625 10.3125 L 8.9375 10.3125 C 8.554688 10.3125 8.25 10.617188 8.25 11 C 8.25 11.382812 8.554688 11.6875 8.9375 11.6875 L 13.0625 11.6875 C 13.445312 11.6875 13.75 11.382812 13.75 11 Z M 13.75 11 "/>
+</g>
+</svg>

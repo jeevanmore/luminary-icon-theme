@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.94;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAXUlEQVQ4je3MoRHCQBAAwL3MN0ET+HSQfuKYQVAkyBgMMxER8XnMK2xeIG4L2IBKPHlURue8K/OVrcCLCfc4uTYf3AY4uPQ5iXYNvcJfpe17ZekRBmuPJ6WU0p/7AkHzDvto57XSAAAAAElFTkSuQmCC"/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.118;stroke:none;"/>
+  </g>
+</mask>
+<image id="image8" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAARUlEQVQ4je3MsRVAQABEwfEogVRwepCpSCu0pQ25KiTXwQkEO9lu8ImIiPil8cPWBEMdKxZcjdEZBWdXjx4HtsbwjR3PC3bFBRsMrMXtAAAAAElFTkSuQmCC"/>
+<mask id="mask2">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image11" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAKklEQVQ4jWNgGAW0BoxQ2oGBgSGTSmYeYGBgmE4ls0bBKBgFo2AUDFYAABjIAgIzGUkyAAAAAElFTkSuQmCC"/>
+<mask id="mask3">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image14" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAT0lEQVQ4je3QoQ2AQBAEwAkoCqID6qEYHBXQEQpJCTgEGNQHx+N2khNndi9HRKkt9h4jBhzYaxVNuJ6ZvwQ1Vc55Ub7iRIcVC7a/iiMi4AZFgwlODJkcjwAAAABJRU5ErkJggg=="/>
+<mask id="mask4">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image17" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAT0lEQVQ4je3QoQ2AQAwF0Ad4BmEONsIyEYJtwDIH6jAoQtJwQfbZn/Y3JaWnLsgHTBhRcPxVPN8LC9Yvg22QN7UXRa840WPHgq22KKWU3lyrWglNBCGx3AAAAABJRU5ErkJggg=="/>
+<mask id="mask5">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image20" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAUUlEQVQ4je3QsQ1AYBAG0IdSaQHLWMUItrKFWism+UsaDYW4RHkvue77LpcjpacmmO8xYUCL/a9DRhzXLG/BOri4+hqMvqKgw4YZa7CfUko3J8GkCE1UXOCkAAAAAElFTkSuQmCC"/>
+<mask id="mask6">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image23" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAATElEQVQ4je3PsQmAQAwF0KccjuBgDuJWDiPYWTmNFneFXBs78yBV+OSHlHpDMD9jRcGJLdyoWXC3ud6L8asLvRLMH+r7E/Z4nZTS3zzehgdxk3irwAAAAABJRU5ErkJggg=="/>
+<mask id="mask7">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image26" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAR0lEQVQ4jWNgGAWjYBTQHzCi8XkZGBjUoOzbDAwMn6hlUTcDA8N/KJ5EiUFMaHx2HGySAQsa/yEDA8N7KPsBJQaPglEwHAAAOaMH4XfQFt0AAAAASUVORK5CYII="/>
+<mask id="mask8">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image29" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAATklEQVQ4jWNgGAWjYBTQHzATkOdgYGDQZ2BgkGJgYPjJwMDwnVoWlzIwMPyH4uWkaGQiIM+BxGYnxWAWAvKPGBgY3kPZ90kxeBSMguEAAMeCCCQlK4x7AAAAAElFTkSuQmCC"/>
+<mask id="mask9">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image32" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAT0lEQVQ4jWNgGAWjYBTQHzCTqJ6NgYFBn4GBQYqBgeEfAwPDV2o5JJ6BgeE/FO/Fp5CJRIM5kNjs+BSykGjwEwYGhvdQ9l0S9Y6CUTDkAABI0ggl/bU99gAAAABJRU5ErkJggg=="/>
+<mask id="mask10">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image35" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAATklEQVQ4jWNgGAWjYBTQHzBTQb8+AwODNAMDAxMDA8Nnil0EBV4MDAz/ofgSsgQThQZzILHZkSVYKDT4OQMDw1sGiAPvUGjWKBgFgw4AAOuJBye7Z4CIAAAAAElFTkSuQmCC"/>
+<mask id="mask11">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image38" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAS0lEQVQ4jWNgGAWjYBSMglFAAchgYGC4C8V5lBjEgsbXYmBgUIKytSkxmAmN/wcHm2TAiMYXZWBg0IeyLzMwMLykxPBRwMDAwMAAANdSBwfXU75tAAAAAElFTkSuQmCC"/>
+<mask id="mask12">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image41" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAATUlEQVQ4jWNgGAWjYBSMglFARRDKwMBwF4obSNHIQkBeg4GBQQnK1iPFYCYC8r+R2H9IMZiRgDw/AwODKZR9g4GB4Qkpho8CBgYGBgYAZGwHBmKQnd4AAAAASUVORK5CYII="/>
+<mask id="mask13">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image44" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAASklEQVQ4jWNgGAWjYBSMglFAQ+DMwMBwh4GB4S4DA8NkfApZSDRYhYGBQRnKNsSnkIlEg3/jYGMARhIN5mJgYLCE6rsHxaMAPwAA8fQHBVClx0cAAAAASUVORK5CYII="/>
+<mask id="mask14">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.189;stroke:none;"/>
+  </g>
+</mask>
+<image id="image47" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAT0lEQVQ4jWNgGAWjYBSMglFAR2DMwMBwm4GB4S4DA8MyZAkWCg2WZ2BgUIGy/yBLMFFo8G8kNorBjBQazMbAwGDDAHHgEwYGhhsUmjccAQDq+AfPwFsDSwAAAABJRU5ErkJggg=="/>
+<mask id="mask15">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.322;stroke:none;"/>
+  </g>
+</mask>
+<image id="image50" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAANElEQVQ4je3PwQ0AEAADwEs82dBkRvM3iBkIv967aVo+KQfZjob1esTEeF0K1dnDiIiICxtztwLPIhBaKAAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.54902%,92.54902%,92.54902%);fill-opacity:1;" d="M 3.292969 0.234375 L 18.949219 0.234375 C 19.875 0.234375 20.625 0.984375 20.625 1.910156 L 20.625 20.144531 C 20.625 21.070312 19.875 21.820312 18.949219 21.820312 L 3.292969 21.820312 C 2.367188 21.820312 1.617188 21.070312 1.617188 20.144531 L 1.617188 1.910156 C 1.617188 0.984375 2.367188 0.234375 3.292969 0.234375 Z M 3.292969 0.234375 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<use xlink:href="#image8" mask="url(#mask1)"/>
+<use xlink:href="#image11" mask="url(#mask2)"/>
+<use xlink:href="#image14" mask="url(#mask3)"/>
+<use xlink:href="#image17" mask="url(#mask4)"/>
+<use xlink:href="#image20" mask="url(#mask5)"/>
+<use xlink:href="#image23" mask="url(#mask6)"/>
+<use xlink:href="#image26" mask="url(#mask7)"/>
+<use xlink:href="#image29" mask="url(#mask8)"/>
+<use xlink:href="#image32" mask="url(#mask9)"/>
+<use xlink:href="#image35" mask="url(#mask10)"/>
+<use xlink:href="#image38" mask="url(#mask11)"/>
+<use xlink:href="#image41" mask="url(#mask12)"/>
+<use xlink:href="#image44" mask="url(#mask13)"/>
+<use xlink:href="#image47" mask="url(#mask14)"/>
+<use xlink:href="#image50" mask="url(#mask15)"/>
+</g>
+</svg>

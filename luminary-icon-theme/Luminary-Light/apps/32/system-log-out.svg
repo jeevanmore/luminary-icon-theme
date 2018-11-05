@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABnElEQVRYhe3WzUpVURQH8J8hhdLQIImmRjRWJ5XUJApH9gE9htqH9BBBRfQI1kSkj2mIBfUgcWliWoraRBucdbk7uWcf770nmpw/bA577f9aa+911lp706BBg/+MoT71zuMyzsb8Oz7hWx2byuE6PuMAh0fGQaxd+xeOh/EycfYLK3gaYyVk7fUXoVMLhvA6DO/iEUa68EbwODiHWNb/L/4LD8LgD0wegz+FzdBZGNT5GfwMYzd60LsVOlsYG2QD7dO/zXAulsjfqyEKa2FkLsPZwr0u8juh+zHnoCpTJ+L7NZHN4lIyP403mFFEbC/kX+J7ocJHFr8VpziZyNJyOzqWE96pkO3nHFRFYAPjikRqhew+riSchziBV1hM5O3k26jwkcWa4hS3M5yyHLjrGDlQhcUw8i7DKauCD6E7P8gG0j5wswe9WTX1ATpR2FR0uSpM63TCgU7fRnoX7GEJo114o3gSnFrvAopqea5TbttY1bkNV7GTrD9T422YYgbryt8D67jai8F+Q3RO0QvGY95SvIhapRoNGjQowR8t3nI2Rf8RigAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(48.235294%,73.333335%,21.176471%);fill-opacity:1;" d="M 4.625 0.171875 L 27.570312 0.171875 C 28.925781 0.171875 30.027344 1.273438 30.027344 2.628906 L 30.027344 29.347656 C 30.027344 30.703125 28.925781 31.804688 27.570312 31.804688 L 4.625 31.804688 C 3.269531 31.804688 2.167969 30.703125 2.167969 29.347656 L 2.167969 2.628906 C 2.167969 1.273438 3.269531 0.171875 4.625 0.171875 Z M 4.625 0.171875 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 16 7 C 20.96875 7 25 11.03125 25 16 C 25 20.96875 20.96875 25 16 25 C 11.03125 25 7 20.96875 7 16 C 7 11.03125 11.03125 7 16 7 Z M 16 9 C 12.132812 9 9 12.132812 9 16 C 9 19.867188 12.132812 23 16 23 C 19.867188 23 23 19.867188 23 16 C 23 12.132812 19.867188 9 16 9 Z M 16 13 L 17.980469 14.539062 L 20 16 L 17.984375 17.460938 L 16 19 L 16.023438 17 L 13 17 C 12.445312 17 12 16.554688 12 16 C 12 15.445312 12.445312 15 13 15 L 16.023438 15 Z M 16 13 "/>
+</g>
+</svg>

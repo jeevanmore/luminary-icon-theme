@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAAw0lEQVQ4je3TP0vDQACG8V//UaR2carfpaPgkA/Rxdmt3QJudunm4jfo6OQkbg5+CYeupaJUEXTQIRcIQTQkKXTIMx3v3T3vccfR0JCnU2DNCBOcoo+nOoojPOMTa3zjJhSU5jhIlzgM2QnecFlFfI4PDHL5HJv/Nrf/mDuSnPg9l68wVOx9fiWS3Ok4k7Vwj4ey0lRyixdc4Ax3oeyqihgOsMArvvCI6yCfVZWndDPjOMindcmzxNiitwt5pY/SsKf8AAe6IHFM5sZIAAAAAElFTkSuQmCC"/>
+<image id="image8" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVQ4je3RwSpEYRjG8eejlDpXYCcbN6DmCizcA+UG5AKs3IGslRtgaWOhxpKNJEsrNpINysT8LGbUdDInYyzPf/l8vf/v6X2TlpaJwQa6uMEBFv5DuodPHGMfd3jC0jTSDvpYH8mqYfOTacQ7ePwh30YPM03zTY+9JHOYreXzSd5KKf3J6w6aLeMduyjDbBEPOPyTdES+hQ/c4hSvBpyjapotv5B3kmwmqZJcJrlKcpTkOslaKeVlqva1z1bwjLPvNdVpvOw4SikXSVaT3CepH7elZQxfgsul2fKm+q8AAAAASUVORK5CYII="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,53.333336%,90.980393%);fill-opacity:1;" d="M 3.179688 0.117188 L 18.953125 0.117188 C 19.886719 0.117188 20.640625 0.875 20.640625 1.808594 L 20.640625 20.175781 C 20.640625 21.109375 19.886719 21.867188 18.953125 21.867188 L 3.179688 21.867188 C 2.246094 21.867188 1.492188 21.109375 1.492188 20.175781 L 1.492188 1.808594 C 1.492188 0.875 2.246094 0.117188 3.179688 0.117188 Z M 3.179688 0.117188 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<use xlink:href="#image8"/>
+</g>
+</svg>

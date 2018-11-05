@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAy0lEQVQ4jdXRvUpDQRAF4E8hBCw0tam0UEliZZk2oBDyAmLtT2/MG4jPkAcwD5GUgRCxFMTaRFCLYGln4SCXi+7FMgeGPXNm5gy7y9JjJVEroxH8AZ//Mb3CAk8RC3QLFv7gBvfYyWi7oV0XDW/jHZsZbS3OatS2sgOrOYMjDPGCA7QwwR7mGOEwZbCOt+CX6GEfF6G9YiN1hQ6mOe0kw+/QThmUfL/62S+1czxGTxJ1zHCL44gBnlHLN//1rxWcohn5GH18FG1fQnwBm9YgpM3mohcAAAAASUVORK5CYII="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(48.235294%,73.333335%,21.176471%);fill-opacity:1;" d="M 2.3125 0.0859375 L 13.785156 0.0859375 C 14.460938 0.0859375 15.011719 0.636719 15.011719 1.316406 L 15.011719 14.675781 C 15.011719 15.351562 14.460938 15.902344 13.785156 15.902344 L 2.3125 15.902344 C 1.632812 15.902344 1.085938 15.351562 1.085938 14.675781 L 1.085938 1.316406 C 1.085938 0.636719 1.632812 0.0859375 2.3125 0.0859375 Z M 2.3125 0.0859375 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 8 3.5 C 10.484375 3.5 12.5 5.515625 12.5 8 C 12.5 10.484375 10.484375 12.5 8 12.5 C 5.515625 12.5 3.5 10.484375 3.5 8 C 3.5 5.515625 5.515625 3.5 8 3.5 Z M 8 4.5 C 6.066406 4.5 4.5 6.066406 4.5 8 C 4.5 9.933594 6.066406 11.5 8 11.5 C 9.933594 11.5 11.5 9.933594 11.5 8 C 11.5 6.066406 9.933594 4.5 8 4.5 Z M 8 6.5 L 8.992188 7.269531 L 10 8 L 8.992188 8.730469 L 8 9.5 L 8.011719 8.5 L 6.5 8.5 C 6.222656 8.5 6 8.277344 6 8 C 6 7.722656 6.222656 7.5 6.5 7.5 L 8.011719 7.5 Z M 8 6.5 "/>
+</g>
+</svg>

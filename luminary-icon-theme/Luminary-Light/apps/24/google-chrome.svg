@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image11" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAcElEQVRIie3VvQmDYBAG4EcJ6BA2abKQlaVIVsko2SNkj0BcQ/xpBCXtp6nuhYOr3ue6y2yp0aKQlglvPNYdVBgwHzgN5CtwxSXx8t/c9sAZyc4GBBBAAAEEEMDfgR7jwd0ftkf/RYc7ysTiES88YQFDax+rA6tGOQAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image11"/>
+  </g>
+</mask>
+<image id="image10" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAADCElEQVRIie2Ub2iVdRTHP+f3PHfd3Xu3PXdju9PJZHcsytgWZcKGbjPoH2vLDHEE9kJKqDe960U1iEgyTFQkEkzKXpmYLbYYGQUtYSrUSNGYbK3prn922ZTZ7u5z99zfr1eupc/TSHoVfd+d8z3nfM85P34H/sd/HvJ35NiGNsfkTYcxpg3hAYFyAxqYwnDOKAbMvPtFXf+pmX8kMN6+Nu4pqxvMNiC6RJNzAgfynnmnrv+H9JICY+3rntBKDgGJJQrfjjTorbW9J/oWO9ViY7SzZatW8tVdFAcoB/XlaGfry4udCxOMdKzbIMjnt4veBYxAV7J34Ai3im15s6PGiHz8LxQHEAMHf+toqQGwAY7XxLY3zHjOxrHZ4KyCewgtW47YAu5l0G6whMKzo/IGvbwozkfPr8SSX+NuXnq+viIxz/w1NlZE6ZaXoOlxhqdDGAP3lWsdTg3cCGX3FQs37UAhoxqt8MaGV4FHs7YSTwlNk9kF3ipxqNy53/tkql69fixH39A8/T/Pc/i0J9niZOHDa56bVNf7Y+isv4AyWSv8TMN2oBrgfGkBj03M4eQ0AMvefj+191yV89nJHFr/macNnL2UJz1rx1oerM1z/duAtxNHAQ/dMj0RdjeUAFCwojqdKltV1fNjLnADfUM5Lsw+YhGuDtrRvQooXOw6UVnIYCJMpLn1wqkRD2MCcgFjYHDEg2h9UIjlO9p7jXFPRyJkgptfwKxrQIUDeQXc0eOlmG33ZMYTyYqlv0VthQW5icA5FXDRj+jODyea66xry+PBIpUlitb7rTQ3h4JCppXRZtCPyRqv6LXTByd3dEVMWezOoxuPCju6IubKxf0T6JzvVTaak1a4fZUSS23yCzgzPZ6YkxvunqdXUxS2VMiCFaWKJxsL6H42kvnu8tGfmjOfrrbE/+y78/pd4a0226muGkZIBs1ZUVjCpmQz9aUrCSl7bvz3ydSBX76J70qMlj1V7P/JDFy7mppJCoDzweYXiNiHggT8sL7I5VhyKpDPuPqVaNP3H/4BZ20H9nYDnCkAAAAASUVORK5CYII="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(80.000001%,80.000001%,80.000001%);fill-opacity:1;" d="M 3.589844 0.257812 L 20.671875 0.257812 C 21.679688 0.257812 22.5 1.074219 22.5 2.085938 L 22.5 21.976562 C 22.5 22.984375 21.679688 23.804688 20.671875 23.804688 L 3.589844 23.804688 C 2.582031 23.804688 1.761719 22.984375 1.761719 21.976562 L 1.761719 2.085938 C 1.761719 1.074219 2.582031 0.257812 3.589844 0.257812 Z M 3.589844 0.257812 "/>
+<use xlink:href="#image10" mask="url(#mask0)"/>
+</g>
+</svg>

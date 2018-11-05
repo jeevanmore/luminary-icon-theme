@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px" viewBox="0 0 48 48" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image16" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAUUlEQVRoge3PQQ0AIBDAsAMX+DeKCB4NyapgWzNz5mNbB7xqQGtAa0BrQGtAa0BrQGtAa0BrQGtAa0BrQGtAa0BrQGtAa0BrQGtAa0BrQGtAu3YSAHmxXPFPAAAAAElFTkSuQmCC"/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image16"/>
+  </g>
+</mask>
+<image id="image15" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAjUlEQVRoge3SsWpCQRAF0DNqlFdYWKfx//8qELGwsBD0GSWbQh9oZSGIgXuqgZ3iDneJiIgn1DC01mZYYoHu9u1NNBywxVdV9TC5WRgO+MQcoxcHfOQXO6ywRs99A1OX8A1779lAhzG+q+qH+wbO2OBUVcfX53vs+s0/XLJGRERERERERERERERExH/0BzXJHPRA2P42AAAAAElFTkSuQmCC"/>
+<image id="image29" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAUUlEQVRoge3PQQ0AIBDAsANL+PeGCB4NyapgWzNz5mNbB7xqQGtAa0BrQGtAa0BrQGtAa0BrQGtAa0BrQGtAa0BrQGtAa0BrQGtAa0BrQGtAuyLGAJOUlM7bAAAAAElFTkSuQmCC"/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<use xlink:href="#image29"/>
+  </g>
+</mask>
+<image id="image28" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAo0lEQVRoge3TTWoCQRAG0DeJBCO4l5Dsg3j/u+QCniDgXzKTRbfiuFDcTEb4HhQUTS++gioiIiIiIiIiIiIiIiIi4qE9ofnvEFc0SsaT54t+Xj8cBgx1j1mtAzr600yxwgcmg0e7bYJ3JePr+eNRhw0WeDOuderQ4hfftUd/gD3WWOITL8Y1wA5fSsbTip8HbJSBprV6xzICLba1ftQbiIgH9wdTUxbcBCwxUgAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface3">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(37.254903%,48.627451%,54.11765%);fill-opacity:1;" d="M 45 38.25 L 45 9.75 C 45 8.507812 43.992188 7.5 42.75 7.5 L 5.25 7.5 C 4.007812 7.5 3 8.507812 3 9.75 L 3 38.25 C 3 39.492188 4.007812 40.5 5.25 40.5 L 42.75 40.5 C 43.992188 40.5 45 39.492188 45 38.25 Z M 45 38.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(49.803922%,58.823532%,63.137257%);fill-opacity:1;" d="M 42 37.5 L 42 10.5 L 6 10.5 L 6 37.5 Z M 42 37.5 "/>
+<use xlink:href="#image15" mask="url(#mask0)"/>
+<use xlink:href="#image28" mask="url(#mask1)"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px" viewBox="0 0 48 48" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.873;stroke:none;"/>
+  </g>
+</mask>
+<image id="image5" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAACNklEQVRoge2Yv2sVQRDHP/MiCs+XGDWFIBgkBiwUEawFEfQvEEQrwcoqlSD6b4jgj97KytZCLKxCUBBJxIc2sVGjPhFUfF8LF9+63l3u9u6pZ/YDBzO3Mzuz3Ozu7UIikUgkEi3GYh0ldYHdwetXZvZxHb/twEzw+oWZfY3NJQpJJ/Q7p0r4Xczwm4/NoxPr+K+wqYbvF+CtkyeAbUBP0rSZvctykLQD6Dp1DZCTv9XIoz6Sjnjl8LzAzmdnE7FbX0JpAH+bqEks6Rywy3vl7wfTki6V6GZB0idPXzazOzH5VEbSUsZaXpeo5DdmCQXcBVY9fQo4nWN7PdD3A0cbyKEaQQkdD9rmCsrEAtvzdUuo9BeQ9IDRZA1/4prgpKS+kx+a2dkyTlVKaI97xkUX2Ovkl2WdWj+JC88Dku4DW516ENicYbYCDDx9C3Agp8vFQJ8BZjPsBq5fgBUzO5OX43oDGAC9Ips/wGMzO5TX2PoSav0AqqxCTwD/3DoJzDWUx1Pgs6f3gH21e5U08Daa2aAt60wcy3zQ9zGv7VFRjk38SgD0gcsVfW7QwALR1ADWzOx2FQdJV5sI/N9P4gVGm9ebMefiswxccPLrIsPCAZjZrZIBO5KmnDzMu52TNMlo88zdRM1sFbhWJnBTc+Aw8N7JffKX1w8NxftJnTnwDLjCj4RjWXR9FJbJWJF0L1jTy15sSdLNuvGjb6e9pDr8+iVlZplXhZImgphDMxvWzSGRSCQSG5fvdcvbzuI7d/IAAAAASUVORK5CYII="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(21.568628%,67.058825%,78.431374%);fill-opacity:1;" d="M 6.953125 0.472656 L 41.046875 0.472656 C 43.0625 0.472656 44.699219 2.105469 44.699219 4.121094 L 44.699219 43.824219 C 44.699219 45.839844 43.0625 47.476562 41.046875 47.476562 L 6.953125 47.476562 C 4.9375 47.476562 3.304688 45.839844 3.304688 43.824219 L 3.304688 4.121094 C 3.304688 2.105469 4.9375 0.472656 6.953125 0.472656 Z M 6.953125 0.472656 "/>
+<use xlink:href="#image5" mask="url(#mask0)"/>
+</g>
+</svg>

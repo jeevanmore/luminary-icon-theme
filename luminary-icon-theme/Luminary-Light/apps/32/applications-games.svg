@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg3330"
+   version="1.1"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="applications-games.svg">
+  <defs
+     id="defs3332">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1022-8-8-3-0-06-59-7-8-0-2"
+       x2="0"
+       y1="3.0069399"
+       y2="11.02436">
+      <stop
+         offset="0"
+         id="stop3001-0-9-4-9-02-6-2-81-9" />
+      <stop
+         offset="1"
+         stop-color="#363636"
+         id="stop3003-5-6-6-5-70-7-1-4-9" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1022-8-8-3-0-06-59-7-8-0-2-3"
+       x2="0"
+       y1="3.0069399"
+       y2="11.02436">
+      <stop
+         offset="0"
+         id="stop3001-0-9-4-9-02-6-2-81-9-6" />
+      <stop
+         offset="1"
+         stop-color="#363636"
+         id="stop3003-5-6-6-5-70-7-1-4-9-7" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.716708"
+     inkscape:cx="-9.3479357"
+     inkscape:cy="15.393191"
+     inkscape:document-units="px"
+     inkscape:current-layer="g820"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2990"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3335">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="capa1"
+     transform="translate(0,-1020.3622)">
+    <g
+       style="fill:#ffd42a"
+       id="g820"
+       transform="matrix(0.05351382,0,0,0.05351382,1.2395654,1022.4558)">
+      <rect
+         ry="45.480965"
+         rx="45.480965"
+         y="-33.249092"
+         x="17.995428"
+         height="585.57635"
+         width="515.67993"
+         id="rect859"
+         style="opacity:1;fill:#37abc8;fill-opacity:1;stroke:none;stroke-width:5.64340162;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.87300002;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.14719772;marker:none;enable-background:accumulate"
+         d="m 160.2862,83.640992 h 57.36182 v 38.241198 h 19.12064 V 179.244 h 76.48238 v -57.36181 h 19.1206 V 83.640992 h 57.3618 v 38.241198 h -38.2412 V 179.244 h 57.36181 v 57.36181 h 38.24121 v 38.2412 h 38.2412 v 114.72361 h -38.2412 v -57.3618 h -57.36182 v 95.603 h -19.12059 v 19.12061 h -57.36181 v -38.24121 h 38.2412 v -57.3618 H 198.52748 v 57.3618 h 38.24118 v 38.24121 H 179.40684 V 427.81182 H 160.2862 v -95.603 h -57.36182 v 57.3618 H 64.683202 V 274.84701 h 38.241178 v -38.2412 h 38.24128 V 179.244 h 57.36182 V 121.88219 H 160.2862 Z m 19.12064,133.844218 v 57.3618 h 57.36182 v -57.3618 z m 133.8442,0 v 57.3618 h 57.36181 v -57.3618 z"
+         id="path3104"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>
