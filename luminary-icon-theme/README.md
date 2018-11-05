@@ -17,8 +17,12 @@ Luminary icon theme is available in two variants:
  - Luminary Light
 
 ## Installation
-
+ - Download archive.
+ - Extract files and folder from archive.
+ - Copy Luminary-Dark and Luminary-Light to ~/.icons
+ - Goto theme manager and select Luminary icon theme
 #### Uninstall
+ - Delete Luminary-Dark and Luminary-Light from ~/.icons
 
 **Size recommendations:**
 
